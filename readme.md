@@ -1,7 +1,7 @@
 ## About me 👨🏻‍💻
 - 💻 I'm currently developing personal projects while im studyn a Superior Degree on Multiplatform Application Development
 
-- Seeking opportunities to keep growing and contribute to open-source projects.
+- 🔍 Seeking opportunities to keep growing and contribute to open-source projects.
 
 - 🌱 Currently learning about microservices and scalable architectures.
 
