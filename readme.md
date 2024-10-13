@@ -1,7 +1,7 @@
 
 # About me 👨🏻‍💻 
-<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="anchelascaso" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://es.linkedin.com/in/anchelascaso?trk=profile-badge">Anchel Ascaso Castro</a></div>
-**`Backend Student (Developer/IT)`**
+
+**`Backend Student (Developer/IT)`**  <div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="anchelascaso" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://es.linkedin.com/in/anchelascaso?trk=profile-badge">Anchel Ascaso Castro</a></div>
 
 - 💻 I'm currently developing personal projects while im studyn a Superior Degree on Multiplatform Application Development
 
