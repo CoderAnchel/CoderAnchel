@@ -30,7 +30,6 @@
 
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-3B7EBF?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://anchel.netlify.app)](https://anchel.netlify.app)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anchelascaso)](https://www.linkedin.com/in/anchelascaso)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/your-username)](https://github.com/your-username)
 [![NPM Badge](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white&link=https://www.npmjs.com/~devanchel)](https://www.npmjs.com/~devanchel)
 [![Gmail Badge](https://img.shields.io/badge/-Email-c71610?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:alex21fd@gmail.com)](mailto:alex21fd@gmail.com)
 
