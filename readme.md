@@ -1,9 +1,8 @@
 # About me 👨🏻‍💻 
 **`Backend Developer & Web Application Student`** 
 
-- 💻 Currently pursuing a Higher Degree in Web Application Development (CFGS Desarrollo de Aplicaciones Web)
+- 💻 Currently working at Lidl while pursuing a Higher Degree in Web Application Development (CFGS Desarrollo de Aplicaciones Web)
 - 🚀 Working on multiple personal projects focused on Go, Java, and TypeScript development
-- 🔍 Former IT Trainee and App Scripts Developer at IDNEO Technologies
 - 🌱 Exploring microservices architecture, event-driven systems, and secure authentication patterns
 - 📚 Constantly challenging myself to improve as a backend developer and contribute to open-source
 
